@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800;900&display=swap');
 
 table, th, td {
-	border: 2px solid black;
+	border: 1px solid black;
 	border-collapse: collapse;
 
   }
@@ -42,40 +42,40 @@ body{
 	justify-content: center;
 }
 .homepage_div {
-	width: 880px;
-	height: 386px;
+	width: 856px;
+	height: 382px;
 	background-color: whitesmoke;
 	display: flex;
 	align-items: center;
 	justify-content: center;
 }
 .landingpage_checklist_div { 
-	width: 872px;
-	height: 450px;
+	width: 852px;
+	height: 446px;
 	background-color: whitesmoke;
 	display: flex;
 	align-items: center;
 	justify-content: center;
 }
 .productpage_checklist_div { 
-	width: 882px;
-	height: 660px;
+	width: 862px;
+	height: 654px;
 	background-color: whitesmoke;
 	display: flex;
 	align-items: center;
 	justify-content: center;
 }
 .categorypage_checklist_div { 
-	width: 876px;
-	height: 366px;
+	width: 852px;
+	height: 362px;
 	background-color: whitesmoke;
 	display: flex;
 	align-items: center;
 	justify-content: center;
 }
 .promotion_checklist_div {  /* LEGAL PAGES DIV*/ 
-	width: 876px;
-	height: 304px;
+	width: 852px;
+	height: 298px;
 	background-color: whitesmoke;
 	display: flex;
 	align-items: center;
@@ -98,7 +98,7 @@ body{
 	justify-content: center;
 }
 .navigation_checklist_div { 
-	width: 690px;
+	width: 664px;
 	height: 300px;
 	background-color: whitesmoke;
 	display: flex;
@@ -106,16 +106,16 @@ body{
 	justify-content: center;
 }
 .footer_checklist_div { 
-	width: 690px;
-	height: 240px;
+	width: 668px;
+	height: 238px;
 	background-color: whitesmoke;
 	display: flex;
 	align-items: center;
 	justify-content: center;
 }
 .productoffline_checklist_div { /* SEO Requests  DIV*/ 
-	width: 886px;
-	height: 280px;
+	width: 860px;
+	height: 278px;
 	background-color: whitesmoke;
 	display: flex;
 	align-items: center;
